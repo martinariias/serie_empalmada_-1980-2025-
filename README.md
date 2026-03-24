@@ -27,4 +27,4 @@ Este proyecto tiene como objetivo construir una serie trimestral larga del PBI d
 * Forecast del PBI
 * Análisis macroeconómico
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinariias/serie_empalmada_-1980-2025-/blob/main/PBI_SERIE_MACRO_CORREGIDA.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinariias/serie_empalmada_-1980-2025-/blob/main/PBI_SERIE_MACRO_CORREGIDO.ipynb)
