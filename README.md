@@ -26,5 +26,4 @@ Modelos econométricos
 Forecast del PBI
 Análisis macroeconómico
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/(https://github.com/martinariias)/serie_empalmada_-1980-2025-
-/blob/main/PBI_SERIE_MACRO_CORREGIDO.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinariias/serie_empalmada_-1980-2025-/blob/main/PBI_SERIE_MACRO%20_CORREGIDA.ipynb)
